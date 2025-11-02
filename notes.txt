@@ -1,2 +1,8 @@
 My notes for Lab 12
 Learning Git step by step!
+
+Summary:
+Git helps track changes and save versions safely.
+
+Insights:
+It’s easier to collaborate and avoid mistakes.
